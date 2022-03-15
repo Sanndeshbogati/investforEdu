@@ -1,2 +1,0 @@
-# investforEdu
-component of invest
